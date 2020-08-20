@@ -5,7 +5,7 @@
  
 :joystick: Full-Stack Developer
 
-:round_pushpin: Poland
+:triangular_flag_on_post: Poland
 
 :mailbox_closed: me@dawidjanik.com
 
