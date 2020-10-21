@@ -7,6 +7,6 @@
 
 :triangular_flag_on_post: Poland
 
-:mailbox_closed: me@dawidjanik.com
+:mailbox_closed: dawid.janik@inception.dev
 
 :mag_right: [LinkedIn Profile](https://www.linkedin.com/in/dawid-janik/)
