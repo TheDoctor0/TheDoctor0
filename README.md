@@ -10,4 +10,4 @@
 
 <img src="https://github-readme-stats-thedoctor0.vercel.app/api?username=TheDoctor0&include_all_commits=true&show_icons=true&text_color=718096&bg_color=ffffff" />
 
-<img src="https://streak-stats.demolab.com/?user=TheDoctor0&theme=transparent&type=png" />
+<img src="https://streak-stats.demolab.com/?user=TheDoctor0&theme=transparent" />
