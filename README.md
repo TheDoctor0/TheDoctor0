@@ -1,6 +1,6 @@
 ### Hello There :wave:
  
-:joystick: Full-Stack Developer
+:joystick: Lead Software Engineer
 
 :triangular_flag_on_post: Poland
 
